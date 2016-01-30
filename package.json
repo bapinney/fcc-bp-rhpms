@@ -1,0 +1,23 @@
+{
+  "name": "fcc-bp-rhpms",
+  "version": "1.0.0",
+  "description": "freeCodeCamp submission",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bapinney/fcc-bp-rhpms.git"
+  },
+  "author": "Branden Pinney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bapinney/fcc-bp-rhpms/issues"
+  },
+  "homepage": "https://github.com/bapinney/fcc-bp-rhpms#readme",
+  "dependencies": {
+    "accepts": "^1.3.1",
+    "express": "^4.13.4"
+  }
+}
